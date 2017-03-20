@@ -5,4 +5,4 @@ Spring Web MVC framework has a class named [SseEmitter](http://docs.spring.io/sp
 
 This is demonstrated with 2 applications -
 1. Spring 4.2 based implementation i.e. `regular-sse`
-2. Spring 5.0 based implementation using Reactive principle i.e. `reactive-sse`
+2. Spring 5.0 based implementation using [Reactive principle](http://www.reactivemanifesto.org/) i.e. `reactive-sse`
